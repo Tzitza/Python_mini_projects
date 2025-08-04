@@ -103,3 +103,6 @@ The repository includes `data_forProject2.csv` with sample building expense data
 Feel free to fork this repository and submit pull requests for improvements or additional features.
 
 
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
